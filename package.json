@@ -6,6 +6,10 @@
   "scripts": {
     "test": "echo \"Warning: No tests created yet.\""
   },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/qxlt/Comp3104.git"
+  },
   "keywords": [],
   "author": "",
   "license": "ISC"
